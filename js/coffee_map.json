@@ -13,7 +13,7 @@
       "lookup": "properties.NAME",
       "from": {
         "data": {
-          "url": "../data/coffee-production-by-exporting-countries-1991-2020-ico.csv"
+          "url": "data/coffee-production-by-exporting-countries-1991-2020-ico.csv"
         },
         "key": "Country",
         "fields": ["Y2020"]
